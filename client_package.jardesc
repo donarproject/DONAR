@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/patrick/donar.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/updates-2.0/client_package.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update.util{RequestElement.java"/>
+        <file path="/updates-2.0/.project"/>
+        <file path="/updates-2.0/nupkey.pvt"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update.client{UpdateClientConnection.java"/>
+        <file path="/updates-2.0/nupkey.pub"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.dns.attrs"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update.client{UpdateClient.java"/>
+        <file path="/updates-2.0/.classpath"/>
+        <file path="/updates-2.0/default.conf"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update.util{KeyUtil.java"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update.util{Verifiers.java"/>
+        <file path="/updates-2.0/nupkey.seq"/>
+        <javaElement handleIdentifier="=updates-2.0/&lt;donar.update{UpdateInfo.java"/>
+    </selectedElements>
+</jardesc>

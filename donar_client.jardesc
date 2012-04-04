@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/patrick/donar.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/UpdateSoftware-CRAQ/donar_client.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update.util{RequestElement.java"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update.util{Verifiers.java"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.dns.attrs"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update{UpdateInfo.java"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update.client{UpdateClient.java"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update.client{UpdateClientConnection.java"/>
+        <javaElement handleIdentifier="=UpdateSoftware-CRAQ/&lt;donar.update.util{KeyUtil.java"/>
+    </selectedElements>
+</jardesc>
